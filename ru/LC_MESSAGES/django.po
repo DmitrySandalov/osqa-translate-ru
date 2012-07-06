@@ -4636,7 +4636,7 @@ msgstr ""
 #: forum/skins/default/templates/auth/welcome_email.html:35
 msgid "Here's your login info (store it in a cool dry place):"
 msgstr ""
-"Вот Ваша информация для Авторизации (хранить его в сухом прохладном месте :)"
+"Вот Ваша информация для Авторизации (хранить её в сухом прохладном месте :)"
 " ):"
 
 #: forum/skins/bht/templates/auth/welcome_email.html:21
