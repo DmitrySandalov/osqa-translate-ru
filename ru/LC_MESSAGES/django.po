@@ -6950,7 +6950,7 @@ msgstr ""
 
 #: forum/views/auth.py:188 forum_modules/localauth/views.py:29
 msgid "A welcome email has been sent to your email address. "
-msgstr "Приветственном письме был отправлен на ваш адрес электронной почты."
+msgstr "Приветственное письмо было отправлено на ваш адрес электронной почты."
 
 #: forum/views/auth.py:193
 msgid ""
