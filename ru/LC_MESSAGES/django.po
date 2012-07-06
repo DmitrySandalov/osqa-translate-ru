@@ -827,7 +827,7 @@ msgid ""
 "Congratulations, you have received a badge '%(badge_name)s'. Check out <a "
 "href=\"%(profile_url)s\">your profile</a>."
 msgstr ""
-"Поздравляем, вы получили значек \"%(badge_name)s\". Проверьте <a "
+"Поздравляем, вы получили значок \"%(badge_name)s\". Проверьте <a "
 "href=\"%(profile_url)s\">ваш профиль</a> ."
 
 #: forum/actions/user.py:188
